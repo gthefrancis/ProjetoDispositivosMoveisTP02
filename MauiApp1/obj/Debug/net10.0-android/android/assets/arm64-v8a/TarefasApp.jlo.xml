@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc64201005d1ba375448" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="MauiApp1.MainActivity, TarefasApp">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc64d4d27d9df114cab8" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="TarefasApp.MainApplication, TarefasApp" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="TarefasApp" module-name="TarefasApp.dll">
+    <type assembly-qualified-name="MauiApp1.MainActivity, TarefasApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="mauiapp1.MainActivity" java-key="crc64201005d1ba375448.MainActivity" managed-key="MauiApp1.MainActivity" partial-assembly-qualified-name="MauiApp1.MainActivity, TarefasApp" />
+    <type assembly-qualified-name="TarefasApp.MainApplication, TarefasApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="tarefasapp.MainApplication" java-key="crc64d4d27d9df114cab8.MainApplication" managed-key="TarefasApp.MainApplication" partial-assembly-qualified-name="TarefasApp.MainApplication, TarefasApp" />
+  </acw-types>
+</api>
